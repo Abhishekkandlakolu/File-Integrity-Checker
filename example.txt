@@ -1,0 +1,1 @@
+echo "This is the initial content of the file." > example.txt
