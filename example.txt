@@ -1,1 +1,5 @@
+# This is the initial hash 
 echo "This is the initial content of the file." > example.txt
+
+#Modify the content of example.txt
+echo "This is the modified content of the file." > example.txt
